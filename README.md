@@ -1,1 +1,1 @@
-Welcome! This is just some stuff I create in Roblox Studio and then upload to git. None of these are complete yet!!! 
+Welcome! This is just an admin commands project for Roblox I have. It is incomplete.
