@@ -1,1 +1,1 @@
-Welcome! This is just an admin commands project for Roblox I have. It is incomplete.
+Jeju admin is a free roblox admin created by orangedragon1218 on Roblox. Feel free to use! No credit needed (but appreciated if you give)!
